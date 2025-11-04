@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Biker Safety AI",
+  "description": "An application that uses AI to analyze images of bikers to determine if they are wearing a helmet and following traffic rules.",
+  "requestFramePermissions": []
+}
